@@ -1,6 +1,6 @@
 
 
-# Project-2: SEO-Landing-Page
+# Project-4: SEO-Landing-Page
 
 >## Created by Sathwik 
 
